@@ -1,6 +1,5 @@
-import logo from "./logo.svg";
 import "./App.css";
-import IOTD from "../components/IOTD";
+import IOTD from "./components/IOTD";
 
 function App() {
   return (
